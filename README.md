@@ -4,13 +4,21 @@
 an general introduction to this web mapping application, including, but not limitedt to,
 the design objective of this web mapping
 basic web mapping functions
+
 **Objective**
+
 **Functions**
+
 **Target Audience**
+
 *Sports fans, specifically tennis fans. 
+
 **Created Date**
+
 **Authors and Affilication**
+
 *Damien Saunder
+
 *Game Set Map
 
 ### Systematic Architecture
