@@ -10,7 +10,7 @@ The systematic architecture for the ATP Tennis World Tour Venue Map 2015 include
   
 ### Critique
 
-I really like the design of ATP Tennis World Tour Venue Map 2015. The pop ups are my favorite part of the web map, as they contain a lot of good infomation about each venue and the tournament it holds. The layout, the structure, and the information of the web map is very simple and interesting, even to someone who's not a big tennis fan such as myself. I also really like how the different tournament series', the Grand Slam, the ATP World Tour Masters 1000, the ATP World Tour 500, and the ATP World Tour 250, have a corresponding color that makes it very easy to identify what series each venue holds a tournament for. I think a different basemap, like a dark or light simple basemap, would aesthetically look a lot better, but the satellite image basemap is necessary to get an overview look of the venues.
+I really like the design of ATP Tennis World Tour Venue Map 2015. The pop ups are my favorite part of the web map, as they contain a lot of good infomation about each venue and the tournament it holds. The layout, the structure, and the information of the web map is very simple and interesting, even to someone who's not a big tennis fan such as myself. I also really like how the different tournament series', the Grand Slam, the ATP World Tour Masters 1000, the ATP World Tour 500, and the ATP World Tour 250, have a corresponding color that makes it very easy to identify what series each venue holds a tournament for. I think a different basemap, like a dark or light simple basemap, would aesthetically look a lot better, but the satellite image basemap is necessary to get an overview of the venues.
 
 ### Data Sources
 
@@ -24,6 +24,11 @@ The ATP Tennis World Tour Venue Map 2015 does not include any thematic layers, b
 
 **Map Elements**
 
+The ATP Tennis World Tour Venue Map 2015 doesn't include many map elements, like a north arrow, 
   - Title 
   - Legend
   - Data Source
+  
+### Improvements
+  
+As stated earlier, I think a simpler basemap, such as a basic light or dark design, would aesthetically make the whole web map look a lot better, but the satellite image basemap is kind of necessary to get an overview of the venues.
