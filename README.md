@@ -14,7 +14,7 @@ The ATP World Tour includes:
 basic web mapping functions
 
 **Objective**
-
+The objective of the ATP Tennis World Tour Venue Map 2015 is to 
 **Functions**
 
 **Target Audience**
@@ -22,6 +22,8 @@ basic web mapping functions
   - Sports fans, specifically tennis fans. 
 
 **Created Date**
+
+  - 2015
 
 **Authors and Affilication**
 
@@ -44,6 +46,16 @@ basic web mapping functions
   
   -
 ### Features and Elements
+
+**Thematic Layers**
+
+  - No thematic layers
+
+**Interactive Layers**
+
+  - 
+
+**Elements**
 
 Does this web map support responsive design?
 From your own perspective, what is the merits of this we
