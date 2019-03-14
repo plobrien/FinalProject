@@ -2,7 +2,7 @@
 
 ### Introduction
 
-The [**ATP Tennis World Tour Venue Map 2015**](http://gamesetmap.com/atp2015/) shows the locations, and venues, of the 65 ATP (Association of Tennis Professionals) World Tour tournaments that ocurred in 2015. The ATP world tour is comprised of the Grand Slam tournaments, the ATP World Tour Masters 1000, the ATP World Tour 500, and the ATP World Tour 250. The ATP World Tour includes 35 tournaments in Europe, 13 in North America, 5 in South America, 6  in Asia, 2 in the Middle East, and 4 in Australia and New Zealand. The map was created in 2015 by [**Damien Saunder**](https://twitter.com/DamienSaunder) for [**Game Set Map**](http://gamesetmap.com/). The ATP Tennis World Tour Venue Map 2015 appeals to tennis fans around the world.  
+The [**ATP Tennis World Tour Venue Map 2015**](http://gamesetmap.com/atp2015/) shows the locations, and venues, of the 65 ATP (Association of Tennis Professionals) World Tour tournaments that ocurred in 2015. The ATP world tour is comprised of the Grand Slam tournaments, the ATP World Tour Masters 1000, the ATP World Tour 500, and the ATP World Tour 250. The ATP World Tour includes 35 tournaments in Europe, 13 in North America, 5 in South America, 6  in Asia, 2 in the Middle East, and 4 in Australia and New Zealand. Clay and hardcourt tournaments dominate the tour with 21 and 22 events respectively. There are 14 indoor hardcourt tournaments, 7 grass and 1 indoor clay tournament. The ATP Tennis World Tour Venue Map 2015, which appeals to tennis fans around the world, was created in 2015 by [**Damien Saunder**](https://twitter.com/DamienSaunder) for [**Game Set Map**](http://gamesetmap.com/).
 
 ### Systematic Architecture
 
@@ -14,9 +14,8 @@ I really enjoy the design of ATP Tennis World Tour Venue Map 2015.
 
 ### Data Sources
 
-The ATP World Tour website is the source for all of the tournament information, such as the the name of the tournaments, the size of the tournaments, the winning earnings, and the 2015 winners.
+The [**ATP World Tour**](https://www.atptour.com/) website is the source for all of the tournament information, such as the the name of the tournaments, the size of the tournaments, the winning earnings, and the 2015 winners.
 
- 
 ### Features and Elements
 
 **Thematic and Interactive Layers**
