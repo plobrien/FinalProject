@@ -24,7 +24,7 @@ The ATP Tennis World Tour Venue Map 2015 does not include any thematic layers, b
 
 **Map Elements**
 
-The ATP Tennis World Tour Venue Map 2015 has very few map elements. The web map only has a title, a legend, and it's data sources. The legend is the best of these elements as it provides a clear, simple, and informative description of what is being shown on the map. A scale bar and north aren't needed as the map is of the entire world. However, an element that should be included that the web map is lacking is the information on what projection is being used.
+The ATP Tennis World Tour Venue Map 2015 has very few map elements. The web map only has a title, a legend, and it's data sources. The legend is the best of these elements as it provides a clear, simple, and informative description of what is being shown on the map. A scale bar and north arrow aren't needed as the map is of the entire world. However, an element that should be included that the web map is lacking is the information on what projection is being used.
   
 ### Improvements
   
