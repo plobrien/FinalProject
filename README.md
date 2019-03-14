@@ -16,17 +16,23 @@ basic web mapping functions
 **Functions**
 
 **Target Audience**
+
   -Sports fans, specifically tennis fans. 
 
 **Created Date**
 
 **Authors and Affilication**
+
   -[**Damien Saunder**](https://twitter.com/DamienSaunder)
+  
   -[**Game Set Map**](http://gamesetmap.com/)
 
 ### Systematic Architecture
+
   -HTML
+  
   -CSS
+  
   -Java Scipt
   
 ### Critique
