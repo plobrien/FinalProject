@@ -1,5 +1,7 @@
 # Final Project
+
 ### Introduction
+
   The [**ATP Tennis World Tour Venue Map 2015**](http://gamesetmap.com/atp2015/) shows the location of venues from around the world. The web map shows the location of the 65 Association of Tennis Professionals tournaments that ocurred in 2015. The ATP world tour 
 The ATP World Tour includes:
   -35 tournaments in Europe
@@ -17,27 +19,29 @@ basic web mapping functions
 
 **Target Audience**
 
-  -Sports fans, specifically tennis fans. 
+  - Sports fans, specifically tennis fans. 
 
 **Created Date**
 
 **Authors and Affilication**
 
-  -[**Damien Saunder**](https://twitter.com/DamienSaunder)
+  - [**Damien Saunder**](https://twitter.com/DamienSaunder)
   
-  -[**Game Set Map**](http://gamesetmap.com/)
+  - [**Game Set Map**](http://gamesetmap.com/)
 
 ### Systematic Architecture
 
-  -HTML
+  - HTML
   
-  -CSS
+  - CSS
   
-  -Java Scipt
+  - Java Scipt
   
 ### Critique
 ### Data Sources
+
   - ATP World Tour Website
+  
   -
 ### Features and Elements
 
